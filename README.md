@@ -5,3 +5,6 @@ o projeto somente abre a imagem, ou seja, só possui um comando.
 Para rodar, basta digitar no terminal do projeto:
 
 "python main.py exemplo.imglang"
+
+
+OBS: No momento, é necessário que instale "pillow" para executar o projeto.
